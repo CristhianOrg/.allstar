@@ -6,3 +6,4 @@ requireApproval: true
 approvalCount: 1
 blockForce: true
 requireSignedCommits: true
+EnforceBranches: []string{"develop","v[0-9]","v[0-9].[0-9]","v[0-9].[0-9].[0-9]"}
