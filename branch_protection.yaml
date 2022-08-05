@@ -1,6 +1,6 @@
 optConfig:
   optOutStrategy: true
-action: fix
+action: issue
 enforceDefault: true
 requireApproval: true
 approvalCount: 1
